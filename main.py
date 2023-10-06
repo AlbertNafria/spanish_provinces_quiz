@@ -1,5 +1,4 @@
-import turtle
-import pandas
+import turtle, pandas
 
 width = 1386
 height = 823
